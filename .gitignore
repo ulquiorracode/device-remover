@@ -1,0 +1,27 @@
+[Bb]in/
+[Oo]bj/
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vs/
+.idea/
+*.userprefs
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Publish output
+publish/
+/device-remover/publish/
+/device-remover/bin/Release/net10.0/win-x64/publish/
